@@ -1,0 +1,10 @@
+com/syniti/pages/TargetPageClass.java
+ com.syniti.pages.TargetPageClass
+com/syniti/util/Browser.java
+ com.syniti.util.Browser
+Hooks.java
+ Hooks
+com/syniti/pages/LoginPageClass.java
+ com.syniti.pages.LoginPageClass
+com/syniti/stepdefs/TargetFunctionality.java
+ com.syniti.stepdefs.TargetFunctionality
